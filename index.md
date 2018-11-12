@@ -11,7 +11,6 @@ Currently, I am working on a project based on analyzing the performance of any g
 
 You can see my dashboard on the Live tab and a predictive model on the Stats page:
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJMJyDiselLCpo96tmArfdp73Ph_Dxo9mJYRF57Us521tfyMdAcmeIZwCRzWJ_3y1whxBv_F4Xp4TL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="500"></iframe>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRJMJyDiselLCpo96tmArfdp73Ph_Dxo9mJYRF57Us521tfyMdAcmeIZwCRzWJ_3y1whxBv_F4Xp4TL/pubhtml?gid=1&amp;single=true&amp;widget=true&amp;headers=false" width="800" height="500"></iframe>
 
 ## Resume
 
