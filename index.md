@@ -1,6 +1,9 @@
-# Welcome
+# Welcome to my personal website.
 
 ## About Me
+
+<img class="center" src="l2.png" width="200" height="200" alt="Krish Suchak">
+
 Hi, my name is Krish Suchak, and I am a third year undergraduate at the University of Chicago pursuing a BS in Computer Science. I love solving programming challenges, lifting weights, and playing Super Smash Bros Melee for the Nintendo Gamecube.
 
 ## Projects
