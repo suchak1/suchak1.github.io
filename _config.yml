@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Krish Suchak
 description: UChicago '20 >< cs major
 logo: l2.png
+github:
+  is_project_page: true
